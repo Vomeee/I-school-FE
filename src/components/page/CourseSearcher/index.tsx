@@ -5,7 +5,7 @@ const CourseSearcher = () => {
 
   return (
     <Grid>
-      CourseSearcher
+      CourseSearcher1
     </Grid>
   )
 }
