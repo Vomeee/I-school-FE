@@ -1,4 +1,4 @@
-.container {
+/* .container {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,7 +10,7 @@
     padding: 3px;
     margin: 0px !important;
     height: 100vh;
-}
+} */
 
 .privacy-container{
     display: flex;
@@ -57,3 +57,17 @@
     color: blue;
 }
 
+/* 기본 스타일 */
+.container {
+    width: 353px;
+    height: 852px;
+    margin: 0 auto; /* 가운데 정렬을 위해 */
+    border: 2px solid black; /* 기본 테두리 */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* 추가적인 스타일을 원한다면 여기에 추가 */
+  
+  
