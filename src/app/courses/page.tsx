@@ -10,7 +10,7 @@ import 'styles/course-search.css'
 const CoursesPage = () => (
   <Page title="CoursesPage">
     <div className="container">
-      <div className=''>
+      <div className='container'>
         <CourseSearcher/>
       </div>
       <br></br>
