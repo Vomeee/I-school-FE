@@ -4,13 +4,13 @@ import Page from 'app/page'
 import Courses from 'components/page/Courses'
 import CourseSearcher from 'components/page/CourseSearcher'
 import 'styles/common.css'
-import 'styles/course-search.css'
+import 'styles/course-search-style.css'
 
 
 const CoursesPage = () => (
   <Page title="CoursesPage">
     <div className="container">
-      <div className='container'>
+      <div className='position-direction'>
         <CourseSearcher/>
       </div>
       <br></br>
